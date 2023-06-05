@@ -1,0 +1,58 @@
+.wrapper{
+  width: 70px;
+  height: 190px;
+  background-color: grey;
+  display: flex;
+  border-radius: 33px;
+  flex-direction: column;
+
+}
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px;
+opacity: 30%;
+}
+.red {
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+
+
+.wrapperPedestrian{
+  width: 70px;
+  height: 140px;
+  background-color: grey;
+  display: flex;
+  border-radius: 33px;
+  flex-direction: column;
+margin: 10px 0;
+
+}
+.circlePedestrian {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px;
+  opacity: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.redPedestrian {
+  background-color: red;
+}
+.greenPedestrian {
+  background-color: green;
+}
+img{
+  width: 20px;
+  height: 40px;
+}
